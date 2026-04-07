@@ -1,199 +1,242 @@
-<!-- ============================================================
-     FinAI — README
-     ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a12,60:003d2b,100:00d4aa&height=280&section=header&text=FinAI&fontSize=130&fontColor=00ffd5&fontAlignY=55&desc=◈%20AI-Powered%20Finance%20Advisor%20◈&descSize=18&descAlignY=75&descFontColor=5eead4&animation=twinkling" width="100%"/>
 
 <div align="center">
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00d4aa,100:7c3aed&height=200&section=header&text=FinAI&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Your%20AI%20Finance%20Advisor&descAlignY=58&descSize=20&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00d4aa,100:7c3aed&height=200&section=header&text=FinAI&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Your%20AI%20Finance%20Advisor&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-</picture>
-
-<br/>
-
-```
-◈ ─────────────────────────────────────────────────────── ◈
-        INTELLIGENCE  ·  CLARITY  ·  PRECISION
-◈ ─────────────────────────────────────────────────────── ◈
-```
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=AI-Powered+Finance+Advisor+for+India;Ask+about+SIP%2C+NPS%2C+ELSS%2C+PPF...;Real+Calculators.+Real+Numbers.;Powered+by+Groq+LLaMA+3.3+70B." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&multiline=false&width=700&lines=%5B+SYSTEM+ONLINE+%5D+Groq+%C3%97+LLaMA+3.3+70B+%C2%B7+Indian+Markets+%C2%B7+Sub-second+Inference;%5B+INITIALIZING+%5D+SIP+%C2%B7+EMI+%C2%B7+Retirement+Planner+%C2%B7+Live+Ticker;%5B+READY+%5D+Ask+about+ELSS%2C+PPF%2C+NPS%2C+Section+80C+and+more...;%5B+DEPLOYED+%5D+Dark+UI+%C2%B7+Chat+Memory+%C2%B7+Structured+Responses+%C2%B7+%E2%82%B9+Native" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Python](https://img.shields.io/badge/Python_3.9+-black?style=for-the-badge&logo=python&logoColor=00D4AA)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=00D4AA)](https://streamlit.io)
-[![Groq](https://img.shields.io/badge/Groq_LLaMA_3.3_70B-black?style=for-the-badge&logoColor=00D4AA)](https://console.groq.com)
-[![India](https://img.shields.io/badge/🇮🇳_Built_for_India-black?style=for-the-badge)](https://en.wikipedia.org/wiki/India)
-[![MIT](https://img.shields.io/badge/MIT_License-black?style=for-the-badge&logo=opensourceinitiative&logoColor=00D4AA)](LICENSE)
-[![Status](https://img.shields.io/badge/Status:_LIVE-black?style=for-the-badge&logo=statuspage&logoColor=00D4AA)]()
+[![LIVE DEMO](https://img.shields.io/badge/◈%20LIVE%20DEMO%20◈-LAUNCH%20APP-00d4aa?style=for-the-badge&logo=streamlit&logoColor=black&labelColor=001a12&color=00d4aa)](https://finance-ai-advisor-2iiincgxwruua8zfqmqf4t.streamlit.app/)
 
 <br/>
 
-> **`[ INITIALIZING FINANCIAL INTELLIGENCE ENGINE... ]`**  
-> *Groq × LLaMA 3.3 70B · Indian Markets · ₹ Native · Sub-second Responses*
+> ### 🌐 **[`finance-ai-advisor.streamlit.app`](https://finance-ai-advisor-2iiincgxwruua8zfqmqf4t.streamlit.app/)** — Try it live, no setup needed
 
 <br/>
 
-**[`⚡ LAUNCH`](#-get-started-in-3-minutes)** &nbsp;|&nbsp;
-**[`🤖 AI CORE`](#-the-ai-engine)**  &nbsp;|&nbsp;
-**[`🧮 CALCULATORS`](#-financial-calculators)**  &nbsp;|&nbsp;
+[![Python](https://img.shields.io/badge/Python_3.9+-000000?style=for-the-badge&logo=python&logoColor=00d4aa&labelColor=000000)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00d4aa&labelColor=000000)](https://streamlit.io)
+[![Groq](https://img.shields.io/badge/Groq_LLaMA_3.3_70B-000000?style=for-the-badge&logoColor=00d4aa&labelColor=000000)](https://console.groq.com)
+[![India](https://img.shields.io/badge/🇮🇳_India-000000?style=for-the-badge&labelColor=000000&color=000000)](https://en.wikipedia.org)
+[![MIT](https://img.shields.io/badge/MIT_License-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=00d4aa&labelColor=000000)](LICENSE)
+[![Status](https://img.shields.io/badge/●_ONLINE-000000?style=for-the-badge&labelColor=000000&color=000000)](https://finance-ai-advisor-2iiincgxwruua8zfqmqf4t.streamlit.app/)
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  ◈  INTELLIGENCE  ─────────────  CLARITY  ─────────────  PRECISION  ◈│
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+**[`⚡ LIVE DEMO`](https://finance-ai-advisor-2iiincgxwruua8zfqmqf4t.streamlit.app/)** &nbsp;`|`&nbsp;
+**[`🚀 LOCAL SETUP`](#-local-setup)**  &nbsp;`|`&nbsp;
+**[`🤖 AI CORE`](#-ai-engine)**  &nbsp;`|`&nbsp;
+**[`🧮 CALCULATORS`](#-financial-calculators)**  &nbsp;`|`&nbsp;
 **[`🗺 ROADMAP`](#️-roadmap)**
 
-<br/>
+</div>
 
 ---
 
-</div>
+<br/>
 
 ## `◈` SYSTEM OVERVIEW
 
 ```python
 FinAI = {
-    "type"      : "AI Finance Advisor",
-    "model"     : "Groq / LLaMA-3.3-70B-Versatile",
-    "context"   : "Indian Financial Markets",
-    "currency"  : "INR (₹)",
-    "interface" : "Streamlit Dark UI",
-    "response"  : "Structured Markdown — always",
-    "memory"    : "Full session chat history",
-    "calcTools" : ["SIP", "EMI", "Retirement Planner"],
-    "status"    : "ONLINE ●"
+    "live_url"    : "https://finance-ai-advisor-2iiincgxwruua8zfqmqf4t.streamlit.app/",
+    "model"       : "Groq / LLaMA-3.3-70B-Versatile",
+    "context"     : "Indian Financial Markets (₹ Native)",
+    "interface"   : "Streamlit · Dark UI · Teal + Gold Palette",
+    "response"    : "Structured Markdown · 7-section format · always",
+    "memory"      : "Full session chat history",
+    "calcTools"   : ["SIP Calculator", "EMI Calculator", "Retirement Planner"],
+    "ticker"      : ["NIFTY 50", "SENSEX", "USD/INR", "GOLD", "SILVER", "BTC", "ETH"],
+    "adapts_to"   : ["Beginner", "Intermediate", "Advanced"],
+    "status"      : "● ONLINE"
 }
 ```
 
-FinAI is not just another chatbot. It's a precision-tuned financial intelligence layer — structured to educate, adapt, and respond in the way a top Indian financial advisor would, minus the appointment booking.
+FinAI is not just a chatbot. It's a precision-tuned financial intelligence layer — structured to educate, adapt, and respond the way a top Indian financial advisor would, minus the appointment booking.
 
 <br/>
 
 ---
 
-## `⚡` GET STARTED IN 3 MINUTES
+## `🌐` TRY IT NOW — NO SETUP NEEDED
 
-```bash
-# ── STEP 1 ─────────────────────────────────────────────────
-git clone https://github.com/your-username/finai-advisor.git
-cd finai-advisor
+<div align="center">
 
-# ── STEP 2 ─────────────────────────────────────────────────
-pip install -r requirements.txt
+<br/>
 
-# ── STEP 3 ─────────────────────────────────────────────────
-echo "GROQ_API_KEY=gsk_your_key_here" > .env
-# Free key → https://console.groq.com
-
-# ── STEP 4 ─────────────────────────────────────────────────
-streamlit run app.py
-# Open → http://localhost:8501
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ◈  LIVE DEPLOYMENT — ZERO INSTALLATION REQUIRED  ◈           ║
+║                                                                  ║
+║    🔗  https://finance-ai-advisor-2iiincgxwruua8zfqmqf4t        ║
+║            .streamlit.app/                                       ║
+║                                                                  ║
+║    Open in browser · Ask your first question · Get answers       ║
+║    in under 3 seconds · Powered by Groq inference engine         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-> **Note:** The calculators work without an API key. The AI chat requires one.
+[![OPEN LIVE APP](https://img.shields.io/badge/OPEN%20THE%20LIVE%20APP%20%E2%86%97-Click%20to%20Launch-00d4aa?style=for-the-badge&labelColor=001a12&color=00d4aa)](https://finance-ai-advisor-2iiincgxwruua8zfqmqf4t.streamlit.app/)
+
+</div>
 
 <br/>
 
 ---
 
-## `🤖` THE AI ENGINE
+## `🚀` LOCAL SETUP
+
+Prefer running it yourself? Three minutes, four commands:
+
+```bash
+# ── 01 · CLONE ────────────────────────────────────────────────────────
+git clone https://github.com/your-username/finai-advisor.git && cd finai-advisor
+
+# ── 02 · INSTALL ──────────────────────────────────────────────────────
+pip install -r requirements.txt
+
+# ── 03 · CONFIGURE ────────────────────────────────────────────────────
+echo "GROQ_API_KEY=gsk_your_key_here" > .env
+#  Free API key → https://console.groq.com  (no credit card)
+
+# ── 04 · LAUNCH ───────────────────────────────────────────────────────
+streamlit run app.py
+#  Open → http://localhost:8501  🟢
+```
+
+<br/>
+
+---
+
+## `🤖` AI ENGINE
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│          USER QUERY  ──▶  GROQ INFERENCE  ──▶  RESPONSE        │
-│                              ▲                                  │
-│                    LLaMA 3.3 70B                                │
-│                   + Indian Finance                              │
-│                     System Prompt                               │
-│                              │                                  │
-│          ┌───────────────────┼───────────────────┐             │
-│          ▼                   ▼                   ▼             │
-│     BEGINNER MODE      ADVANCED MODE       CUSTOM NUMBERS      │
-│    (analogies, ELI5)  (full technical)    (your ₹ figures)     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+                        ┌─────────────────┐
+                        │   USER QUERY    │
+                        └────────┬────────┘
+                                 │
+                                 ▼
+               ┌─────────────────────────────────┐
+               │         GROQ INFERENCE          │
+               │      LLaMA 3.3 · 70B params     │
+               │   < 1 sec · 275 tokens/sec avg  │
+               └──────────────┬──────────────────┘
+                              │
+               ┌──────────────▼──────────────────┐
+               │     INDIAN FINANCE SYSTEM       │
+               │           PROMPT                │
+               │  ₹ native · SEBI · RBI aware    │
+               └──┬──────────────┬───────────────┘
+                  │              │
+        ┌─────────▼──┐    ┌──────▼──────┐    ┌───────────────┐
+        │  BEGINNER  │    │  ADVANCED   │    │ CUSTOM NUMS   │
+        │  Analogies │    │  Technical  │    │  Your ₹ figs  │
+        │  ELI5 tone │    │  Full depth │    │  in examples  │
+        └─────────┬──┘    └──────┬──────┘    └──────┬────────┘
+                  │              │                   │
+               ┌──▼──────────────▼───────────────────▼──┐
+               │     STRUCTURED 7-SECTION RESPONSE      │
+               │   💡 Title · 📖 Explanation · 📌 Points │
+               │   🧮 Example · 🛠 Tips · ⚡ Summary     │
+               │   💬 Follow-up Questions               │
+               └─────────────────────────────────────────┘
 ```
 
 </div>
 
 ### Knowledge Matrix
 
-| Domain | Topics |
-|--------|--------|
+| Domain | Coverage |
+|--------|----------|
 | `PERSONAL FINANCE` | Budgeting · 50-30-20 Rule · Emergency Funds · Cash Flow |
-| `INVESTING` | Stocks · Bonds · Mutual Funds · ETFs · Sovereign Gold Bonds |
-| `INDIAN INSTRUMENTS` | SIP · ELSS · PPF · NPS · FD · RD · NSC · ULIPs |
-| `TAX PLANNING` | Section 80C · LTCG · STCG · HRA · NPS Deductions |
-| `MARKETS` | Fundamental Analysis · Technical Analysis · SEBI · NSE · BSE |
-| `DEBT & CREDIT` | EMI Structuring · Credit Score · Prepayment Strategy |
-| `RETIREMENT` | Corpus Planning · SWP · NPS Tier I/II · Annuities |
-| `ECONOMICS` | RBI Policy · Repo Rate · Inflation · GDP · FII/DII Flows |
-| `CRYPTO` | Bitcoin · Ethereum · Tax Implications (educational only) |
+| `INDIAN INSTRUMENTS` | SIP · ELSS · PPF · NPS · FD · RD · NSC · Sovereign Gold Bonds |
+| `INVESTING` | Mutual Funds · Stocks · Bonds · ETFs · Index Funds |
+| `TAX PLANNING` | Section 80C · LTCG · STCG · HRA · NPS Deduction · ITR |
+| `MARKETS` | NSE · BSE · Fundamental Analysis · Technical Analysis · SEBI |
+| `DEBT & CREDIT` | EMI · CIBIL Score · Prepayment Strategy · Loan Structuring |
+| `RETIREMENT` | Corpus Planning · SWP · NPS Tier I & II · Annuities |
+| `ECONOMICS` | RBI · Repo Rate · Inflation · GDP · FII/DII Flows |
+| `CRYPTO` | Bitcoin · Ethereum · Tax (educational overview only) |
 
-### Guardrails
+### Hard Limits
 
 ```
-✗  Will NOT recommend specific stocks or funds by name
-✗  Will NOT guarantee returns or profits
-✗  Will NOT answer non-finance questions
-✗  Will NOT provide SEBI-registered investment advice
-✓  Will ALWAYS suggest consulting a qualified advisor
+✗  Never recommends specific stocks or mutual funds by name
+✗  Never guarantees returns or profits
+✗  Never answers non-finance questions (redirects gracefully)
+✗  Never acts as a SEBI-registered advisor
+✓  Always suggests consulting a qualified professional
 ```
 
 <br/>
 
 ---
 
-## `💬` RESPONSE FORMAT — ALWAYS
+## `💬` RESPONSE FORMAT
 
-Every single response follows this exact structure. No exceptions.
+Every response. Every time. No exceptions. No text walls.
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  💡  [Topic Title]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  💡  WHAT IS A SIP?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   📖  EXPLANATION
-  ─────────────────────────────────────────────
-  Clear, concise. No paragraph walls.
+  ──────────────────────────────────────────────────────
+  A Systematic Investment Plan lets you invest a fixed
+  amount in a mutual fund every month automatically.
 
   📌  KEY POINTS
-  ─────────────────────────────────────────────
-  • Term  —  one-line explanation
-  • Term  —  one-line explanation
+  ──────────────────────────────────────────────────────
+  •  Rupee cost averaging  —  buy more units when markets dip
+  •  Power of compounding  —  returns that earn returns
+  •  Flexibility           —  start from as little as ₹500/mo
 
-  🧮  EXAMPLE  (with your actual numbers)
-  ─────────────────────────────────────────────
-  Step-by-step. Uses ₹ figures you gave.
+  🧮  EXAMPLE  (₹5,000/month · 12% p.a. · 10 years)
+  ──────────────────────────────────────────────────────
+  Invested  →  ₹6,00,000
+  Returns   →  ₹5,61,695
+  Total     →  ₹11,61,695   [ +93.6% ]
 
   🛠  PRACTICAL TIPS
-  ─────────────────────────────────────────────
-  • Actionable. Not generic.
+  ──────────────────────────────────────────────────────
+  •  Auto-debit on salary day — remove temptation to skip
+  •  Don't stop SIPs during a market crash — that's the point
+  •  Review performance annually, not monthly
 
   ⚡  QUICK SUMMARY
-  ─────────────────────────────────────────────
-  One plain-English takeaway.
+  ──────────────────────────────────────────────────────
+  SIPs make investing automatic, affordable, and powerful
+  over the long term — thanks to compounding and averaging.
 
   💬  YOU MIGHT ALSO ASK
-  ─────────────────────────────────────────────
-  → Follow-up question 1
-  → Follow-up question 2
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ──────────────────────────────────────────────────────
+  →  What is ELSS and can I save tax via SIP?
+  →  What's a good SIP amount for a ₹60,000 salary?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### Example Prompts to Try
+**Try these prompts on the [live app](https://finance-ai-advisor-2iiincgxwruua8zfqmqf4t.streamlit.app/):**
 
 ```
-"How does SIP work and how much should I invest at ₹60,000/month salary?"
-"What is ELSS? How is it better than FD for tax saving?"
-"Explain LTCG vs STCG on equity mutual funds in simple terms."
-"I have ₹5 lakh saved — what should I do with it?"
-"How does RBI's repo rate change affect my home loan EMI?"
-"What's a good asset allocation for a 28-year-old with moderate risk?"
+→  "How does SIP work and how much should I invest on ₹60,000/month salary?"
+→  "What is ELSS? How is it better than FD for tax saving under 80C?"
+→  "Explain LTCG vs STCG on equity mutual funds in simple terms."
+→  "I have ₹5 lakh saved — what should I do with it?"
+→  "How does RBI's repo rate change affect my home loan EMI?"
+→  "What's a good asset allocation for a 28-year-old with moderate risk?"
 ```
 
 <br/>
@@ -202,56 +245,48 @@ Every single response follows this exact structure. No exceptions.
 
 ## `🧮` FINANCIAL CALCULATORS
 
-Three precision calculators — real formulas, instant results, no approximations.
+Three precision calculators built into the app. Real formulas. Instant results.
 
 <br/>
 
-### `📈` SIP Calculator
-
-> *How much will your monthly SIP grow to?*
+### `📈` SIP Calculator &nbsp;·&nbsp; *How much will your SIP grow to?*
 
 ```
-INPUTS                          OUTPUTS
-──────────────────────────      ──────────────────────────────────────
-Monthly Investment (₹)    →     Total Maturity Value
-Expected Return (% p.a.)  →     Amount Invested vs Estimated Returns
-Time Period (years)        →     Total Gain %
-```
+INPUT                              OUTPUT
+─────────────────────────────      ─────────────────────────────────────
+Monthly Investment (₹)       →     Total Maturity Value
+Expected Return  (% p.a.)    →     Amount Invested
+Time Period      (years)      →     Estimated Returns & Total Gain %
 
-Formula used: &nbsp; `FV = P × [((1 + r)ⁿ − 1) / r] × (1 + r)`
+Formula: FV = P × [((1 + r)ⁿ − 1) / r] × (1 + r)
+```
 
 ---
 
-### `🏠` EMI Calculator
-
-> *What will your monthly loan repayment be?*
+### `🏠` EMI Calculator &nbsp;·&nbsp; *What will your monthly repayment be?*
 
 ```
-INPUTS                          OUTPUTS
-──────────────────────────      ──────────────────────────────────────
-Loan Amount (₹)           →     Monthly EMI
-Interest Rate (% p.a.)    →     Principal vs Total Interest
-Tenure (years)             →     Total Amount Payable
-```
+INPUT                              OUTPUT
+─────────────────────────────      ─────────────────────────────────────
+Loan Amount      (₹)         →     Monthly EMI
+Interest Rate    (% p.a.)    →     Principal vs Total Interest Paid
+Tenure           (years)     →     Total Amount Payable
 
-Formula used: &nbsp; `EMI = P × r × (1 + r)ⁿ / ((1 + r)ⁿ − 1)`
+Formula: EMI = P × r × (1 + r)ⁿ / ((1 + r)ⁿ − 1)
+```
 
 ---
 
-### `🎯` Retirement Planner
-
-> *How much corpus do you need to retire comfortably?*
+### `🎯` Retirement Planner &nbsp;·&nbsp; *How much corpus do you need?*
 
 ```
-INPUTS                          OUTPUTS
-──────────────────────────      ──────────────────────────────────────
-Current Age + Retire Age  →     Corpus Required
-Monthly Expenses Today    →     Inflation-Adjusted Future Expenses
-Inflation & Return %      →     Monthly SIP to Start Now
-Life Expectancy            →     Years Left to Build Corpus
+INPUT                              OUTPUT
+─────────────────────────────      ─────────────────────────────────────
+Current Age + Retire Age     →     Total Corpus Required
+Monthly Expenses Today       →     Inflation-Adjusted Future Expenses
+Inflation % + Return %       →     Monthly SIP to Start Right Now
+Life Expectancy              →     Years Left to Build Corpus
 ```
-
-Formula: &nbsp; Inflation-adjusted corpus + reverse SIP calculation
 
 <br/>
 
@@ -260,47 +295,47 @@ Formula: &nbsp; Inflation-adjusted corpus + reverse SIP calculation
 ## `🖥` UI ARCHITECTURE
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  💹 FinAI                                              ● LIVE       │  ← Sticky nav · blur backdrop
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│         [ HERO SECTION ]                                            │
-│         Headline · Subtext · CTA buttons                            │
-│         Stats: Topics · Instruments · Users · Accuracy             │
-│                                                                     │
-├─────────────────────────────────────────────────────────────────────┤
-│  NIFTY 50 ▲0.62%  SENSEX ▲0.41%  USDINR 83.42  GOLD ▲0.2%  BTC ▼ │  ← Infinite scroll ticker
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  [ FEATURE GRID ]  2×3 cards — what FinAI does                     │
-│                                                                     │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  [ AI CHAT INTERFACE ]                                              │
-│   User messages  ──▶  teal right-aligned bubbles                   │
-│   AI responses   ──▶  full structured Markdown                     │
-│   Input row: [text field] [Send →] [Clear]                         │
-│                                                                     │
-├─────────────────────────────────────────────────────────────────────┤
-│  [ 📈 SIP ]  [ 🏠 EMI ]  [ 🎯 Retirement ]   ← tab switcher       │
-│  [ Active Calculator — inputs + results card ]                      │
-├─────────────────────────────────────────────────────────────────────┤
-│  FinAI · Educational only · Not SEBI advice                        │  ← Footer
-└─────────────────────────────────────────────────────────────────────┘
+╔═════════════════════════════════════════════════════════════════════╗
+║  💹 FinAI                                            ● LIVE        ║  ← sticky nav · blur glass
+╠═════════════════════════════════════════════════════════════════════╣
+║                                                                     ║
+║      H E R O   S E C T I O N                                       ║
+║      Headline · Tagline · CTA → Live App link                      ║
+║      Stats grid: Topics · Instruments · Speed · Accuracy           ║
+║                                                                     ║
+╠═════════════════════════════════════════════════════════════════════╣
+║  NIFTY▲  SENSEX▲  USD/INR  GOLD▲  SILVER  CRUDE  BTC  ETH  ···   ║  ← infinite scroll ticker
+╠═════════════════════════════════════════════════════════════════════╣
+║                                                                     ║
+║  [ 2×3 FEATURE CARDS ]   What FinAI can do                         ║
+║                                                                     ║
+╠═════════════════════════════════════════════════════════════════════╣
+║                                                                     ║
+║  [ AI CHAT ]                                                        ║
+║   ● User  →  teal right-aligned bubbles                            ║
+║   ● AI    →  full structured Markdown render                       ║
+║   [ message input ─────────────── ] [ Send → ] [ Clear ]          ║
+║                                                                     ║
+╠═════════════════════════════════════════════════════════════════════╣
+║  [ 📈 SIP ] [ 🏠 EMI ] [ 🎯 Retirement ]   ← tab switcher         ║
+║  [ inputs ] → [ results card ]                                      ║
+╠═════════════════════════════════════════════════════════════════════╣
+║  FinAI · Educational only · Not SEBI advice                        ║  ← footer
+╚═════════════════════════════════════════════════════════════════════╝
 ```
 
 **Design tokens:**
 
-| Token | Value |
-|-------|-------|
-| Base background | `#080c12` |
-| Surface | `#111820` |
-| Primary accent | `#00d4aa` (teal) |
-| Secondary accent | `#f0b429` (gold) |
-| Danger / loss | `#ff5566` (red) |
-| Heading font | Playfair Display |
-| Data / mono font | IBM Plex Mono |
-| Body font | Outfit |
+| Token | Value | Usage |
+|-------|-------|-------|
+| Base BG | `#080c12` | App background |
+| Surface | `#111820` | Cards & panels |
+| Accent | `#00d4aa` | Teal — primary CTA, highlights |
+| Gold | `#f0b429` | Gains, important numbers |
+| Red | `#ff5566` | Losses, warnings |
+| Heading | Playfair Display | Serif elegance |
+| Mono | IBM Plex Mono | Data, labels, ticker |
+| Body | Outfit | Clean readable prose |
 
 <br/>
 
@@ -311,10 +346,10 @@ Formula: &nbsp; Inflation-adjusted corpus + reverse SIP calculation
 ```
 finai-advisor/
 │
-├── app.py              ←  UI layer: nav, hero, ticker, chat, calculators, footer
-├── chatbot1.py         ←  AI layer: Groq client, system prompt, memory, chat()
-├── requirements.txt    ←  3 dependencies
-├── .env                ←  secrets (never commit)
+├── app.py              ←  UI: nav, hero, ticker, chat, calculators, footer
+├── chatbot1.py         ←  AI: Groq client, system prompt, memory, chat()
+├── requirements.txt    ←  3 dependencies total
+├── .env                ←  API key (never commit)
 └── .gitignore
 ```
 
@@ -330,6 +365,8 @@ groq >= 0.9.0    # LLaMA 3.3 70B via Groq API
 python-dotenv    # .env secret loading
 ```
 
+Three dependencies. That's the entire stack.
+
 <br/>
 
 ---
@@ -337,25 +374,25 @@ python-dotenv    # .env secret loading
 ## `🗺️` ROADMAP
 
 ```
- PHASE 1 — CORE  ✅ COMPLETE
- ├── AI chat with structured responses
- ├── SIP / EMI / Retirement calculators
- ├── Live market ticker
- ├── Beginner ↔ Advanced mode detection
- └── Indian context: ₹, SIP, ELSS, RBI, SEBI
+ PHASE 1 — CORE  ✅ LIVE AT streamlit.app
+ ├─ ✅  AI chat with structured 7-section responses
+ ├─ ✅  SIP / EMI / Retirement calculators (real formulas)
+ ├─ ✅  Live scrolling market ticker
+ ├─ ✅  Beginner ↔ Advanced mode detection
+ └─ ✅  Indian finance context: ₹, SIP, ELSS, RBI, SEBI
 
- PHASE 2 — INTELLIGENCE  ⬜ IN PROGRESS
- ├── Real-time NSE / BSE price feed
- ├── Portfolio tracker + AI commentary
- ├── Downloadable PDF response exports
- └── Persistent cross-session chat memory
+ PHASE 2 — INTELLIGENCE  ⬜ BUILDING
+ ├─ ⬜  Real-time NSE / BSE price feed
+ ├─ ⬜  Portfolio tracker + AI commentary on your holdings
+ ├─ ⬜  PDF export of AI responses
+ └─ ⬜  Persistent cross-session chat memory
 
  PHASE 3 — SCALE  ⬜ PLANNED
- ├── Hindi language support
- ├── Goal-based savings planner
- ├── Role-based views (Student / Professional / Retiree)
- ├── Telegram + WhatsApp bot
- └── Email-delivered weekly finance digest
+ ├─ ⬜  Hindi language support
+ ├─ ⬜  Goal-based savings planner (home · car · education)
+ ├─ ⬜  Role views: Student / Professional / Retiree
+ ├─ ⬜  Telegram + WhatsApp bot version
+ └─ ⬜  Weekly finance digest via email
 ```
 
 <br/>
@@ -365,20 +402,13 @@ python-dotenv    # .env secret loading
 ## `🤝` CONTRIBUTING
 
 ```bash
-# 1. Fork + Clone
-git clone https://github.com/your-username/finai-advisor.git
-
-# 2. Create a branch
-git checkout -b feat/your-feature-name
-
-# 3. Commit with a clear message
-git commit -m "feat: add portfolio tracker module"
-
-# 4. Push + open a PR
-git push origin feat/your-feature-name
+git checkout -b feat/your-idea
+git commit -m "feat: describe what you built"
+git push origin feat/your-idea
+# → open a pull request
 ```
 
-One feature per PR. Keep it focused.
+One feature per PR. Clear commit messages. That's all we ask.
 
 <br/>
 
@@ -388,8 +418,16 @@ One feature per PR. Keep it focused.
 
 > FinAI is built **for educational purposes only.**  
 > It is **not** registered with SEBI and does not provide personalized investment advice.  
-> AI responses are general in nature and do not account for individual financial situations.  
+> All AI responses are general in nature.  
 > **Always consult a SEBI-registered financial advisor before making investment decisions.**
+
+<br/>
+
+---
+
+## `📄` LICENSE
+
+MIT — free to use, modify, and distribute. See [`LICENSE`](LICENSE).
 
 <br/>
 
@@ -397,25 +435,27 @@ One feature per PR. Keep it focused.
 
 <div align="center">
 
+```
+◈ ──────────────────────────────────────────────────────────────── ◈
+              MIT Licensed  ·  Built for 🇮🇳 India
+         Powered by Groq  ·  Deployed on Streamlit Cloud
+◈ ──────────────────────────────────────────────────────────────── ◈
+```
+
 <br/>
 
-```
-◈ ─────────────────────────────────────────────────────── ◈
-   MIT Licensed  ·  Built for India  ·  Powered by Groq
-◈ ─────────────────────────────────────────────────────── ◈
-```
+### 🌐 Live App
+
+**[`finance-ai-advisor-2iiincgxwruua8zfqmqf4t.streamlit.app`](https://finance-ai-advisor-2iiincgxwruua8zfqmqf4t.streamlit.app/)**
+
+<br/>
 
 *Made for people who want to understand their money — not just move it around.*
 
-<br/>
-
-**Found it useful? Drop a `⭐` — it keeps the project alive.**
+**If FinAI helped you, drop a `⭐` on GitHub.**
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4aa,100:0d0d0d&height=120&section=footer&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4aa,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:004d38,100:000000&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
